@@ -7,6 +7,11 @@ body {
     padding: 0;
     background: white;
 }
+#myPicture {
+    margin: 100px;
+    padding: 50px;
+    
+}
 .navigation ul {
     text-decoration: none;
     list-style: none;
