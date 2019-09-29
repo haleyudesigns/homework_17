@@ -1,4 +1,16 @@
-
+.logoHeader {
+    width: 250px;
+    height: 350px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+.navigation ul {
+    text-decoration: none;
+    list-style: none;
+}
 .fab {
     font-size: 25px;
     margin: 10px;
